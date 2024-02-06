@@ -2,15 +2,15 @@
 A simple To Do tasks CRUD API built with FastAPI
 
 
-🌟 Features
+## 🌟 Features
 - Sqlite3 for database (`app/db.py`)
 
-🗂 Requirements
+## 🗂 Requirements
 - fastapi >= 0.109.2
 - pydantic ~= 2.6.1
 - uvicorn[standard] (to run your app)
 
-⚙️ Installation and Usage
+## ⚙️ Installation and Usage
 
 Clone this repository
 ```shell
